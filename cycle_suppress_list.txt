@@ -8,6 +8,8 @@ NAMESPACE com.google.common.io
 NAMESPACE com.google.common.net
 NAMESPACE com.google.common.testing
 
+# Alteração
+
 # Allow our dependencies for now.
 NAMESPACE junit.framework
 NAMESPACE org.junit
